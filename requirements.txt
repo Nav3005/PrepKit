@@ -10,3 +10,4 @@ youtube-transcript-api>=0.6.1
 chromadb>=0.4.22
 urllib3>=2.0.0 
 requests
+langchain-community
